@@ -1,7 +1,7 @@
 
 # The file with the data to be correlated:
 # (available from https://github.com/rmjarvis/TreeCorr/wiki/Aardvark.fit)
-file_name: data/Aardvark.fit
+file_name: Aardvark.fit
 
 # What are the names of the columns for ra, dec and what kind of values do they have:
 ra_col: RA          # The column name for RA values in the input file
